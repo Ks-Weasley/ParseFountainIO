@@ -1,0 +1,17 @@
+* {
+	font-family: "Courier";
+}
+.scene_heading {
+	font-weight: bolder;
+}
+
+/*
+[class ^= "character"] {
+	float: left;
+	padding: 10px;
+}
+*/
+
+.transition {
+	float: right;
+}
