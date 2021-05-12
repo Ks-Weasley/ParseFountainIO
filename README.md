@@ -5,7 +5,7 @@ A parser for screen play writing found at fountain.io
 Center text must be checked before Transition element in order to avoid false positives. This can be easily circumvented by changing the Transition Regular Expression to not accept Center text.
 
 ## Strict
-Regular Expressions for BOLD ITALICS, BOLD, ITALICS must be executed in the corresponding order. <br>
+Regular Expressions for BOLD ITALICS, BOLD, ITALICS must be executed respectively. <br>
 
 ## Packages 
 *default package* - Contains all functionalities and Regular Expression validator <br>
