@@ -20,10 +20,10 @@ Regular Expressions for BOLD ITALICS, BOLD, ITALICS must be executed in the corr
 
 ## Instructions to run
 Navigate to the ParseFountainIO/
-'''
-java ParseFountainIO.java testFile.txt
-'''
+
+> java ParseFountainIO.java testFile.txt
+
 <center>OR</center>
-'''
-java ParseFountainIO.java
-'''
+
+> java ParseFountainIO.java
+
