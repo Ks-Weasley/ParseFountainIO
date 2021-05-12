@@ -8,7 +8,6 @@ Center text must be checked before Transition element in order to avoid false po
 Regular Expressions for BOLD ITALICS, BOLD, ITALICS must be executed respectively. <br>
 
 ## Packages 
-*default package* - Contains all functionalities and Regular Expression validator <br>
 *errors* - Contains custom made Warning class <br>
 *regularExpression* - Contains the regular expressions for all the elements mentioned @[fountain.io] <br>
 *repository* - Contains the characterization class for Fountain elements. <br>
