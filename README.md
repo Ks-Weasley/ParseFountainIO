@@ -18,7 +18,7 @@ Regular Expressions for BOLD ITALICS, BOLD, ITALICS must be executed respectivel
 *test.txt* - Default input file in case an input is not provided <br>
 
 ## Instructions to run
-Navigate to the ParseFountainIO/
+Navigate to the ParseFountainIO/src
 
 > java ParseFountainIO.java testFile.txt
 
